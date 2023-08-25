@@ -115,6 +115,7 @@ To run the project, open index.html in browser
 You can deploy this project using:
 >1.  A Code Editor
 >2. Latest version of Git
+>3. Run with a LiveServer in VSCode
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,11 +124,11 @@ You can deploy this project using:
 
 > Mention all of the collaborators of this project.
 
-👤 **Abdullah Ahmadi and Ivonne**
+👤 **Abdullah Ahmadi**
 
-- GitHub: [@abdullah97-pro](https://github.com/abdullah97-pro) - [@IvonneBenitesRodriguez](https://github.com/IvonneBenitesRodriguez)
-- Twitter: [@Abdulla54370110](https://twitter.com/Abdulla54370110) - [@IvonneBenitesR](https://twitter.com/IvonneBenitesR)
-- LinkedIn: [abdullah-ahmadi](https://www.linkedin.com/in/abdullah-ahmadi-9528a0252/) - [LinkedIn](https://www.linkedin.com/in/ivonnebenites/)
+- GitHub: [@abdullah97-pro](https://github.com/abdullah97-pro)
+- Twitter: [@Abdulla54370110](https://twitter.com/Abdulla54370110)
+- LinkedIn: [abdullah-ahmadi](https://www.linkedin.com/in/abdullah-ahmadi-9528a0252/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

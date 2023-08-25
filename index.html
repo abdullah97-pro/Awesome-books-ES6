@@ -15,20 +15,20 @@
         <a href="index.html" class="logo">Awesome Books</a>
         <nav>
           <ul class="nav-list">
-            <li><a id="list" href="">List</a></li>
-            <li><a id="addNew" href="">Add new</a></li>
-            <li><a id="contact" href="">Contact</a></li>
+            <li><a id="list" href="#show">List</a></li>
+            <li><a id="addNew" href="#insert">Add new</a></li>
+            <li><a id="contact" href="#cont">Contact</a></li>
           </ul>
         </nav>
       </div>
       <div class="date"></div>
     </header>
 
-    <section class="books-section">
+    <section id="show" class="books-section">
       <h1>All awesome books</h1>
       <div class="books"></div>
     </section>
-    <section class="add-books toggle">
+    <section id="insert" class="add-books toggle">
       <h2>Add a new book</h2>
       <form>
         <label for="title"></label>
@@ -51,7 +51,7 @@
         <p></p>
       </form>
     </section>
-    <section class="contact-section toggle">
+    <section id="cont" class="contact-section toggle">
       <h2 class="contact-heading">Contact Information</h2>
       <p class="contact-text">
         Do you have any question or you just want to say hello?<br />
