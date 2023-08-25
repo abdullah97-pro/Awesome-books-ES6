@@ -86,6 +86,7 @@
 3. Internet Connection
 4. Git
 5. Linter Configuration
+6. LiveServer Configuration in VSCode
 
 <!-- SETUP -->
 ### Setup
@@ -108,7 +109,7 @@ Make sure you install this project with the latest version of Git and a code edi
 
 ### Usage
 
-To run the project, open index.html in browser
+To run the project, open in VSCode run index.html with liveserver in browser
 
 ### Deployment
 
